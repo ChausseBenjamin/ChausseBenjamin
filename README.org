@@ -1,1 +1,5 @@
-#+html: <iframe src=chausse.xyz/index.html></iframe>
+#+html: <div align="center">
+#+html: <img alt="Logo" src="assets/logo.png" width="250" />
+* Benjamin Chausse
+#+html: </div>
+
