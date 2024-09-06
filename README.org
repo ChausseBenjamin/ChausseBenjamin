@@ -3,6 +3,6 @@
 * Benjamin Chausse
 #+html: </div>
 
-```sh
-ssh git.chausse.xyz
-```
+  #+begin_src sh
+  ssh git.chausse.xyz
+  #+end_src
